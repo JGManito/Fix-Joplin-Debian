@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#Original procedure from vsimkus, found here https://github.com/laurent22/joplin/issues/2246#issuecomment-577315584
+#I only put it in a script to help either begginers or to allow for automation
+
 #Joplin is usually saved in "/home/$username/.joplin". If you for whatever reason have a different location, edit it here
 joplinPath=~/.joplin
 
